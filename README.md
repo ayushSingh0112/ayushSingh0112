@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">I am a passionate AI and Cybersecurity Enthusiast from India</h3>
+<h1 align="center">Ayush Singh</h1>
+<h3 align="center">A passionate AI and Cybersecurity Enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushSingh0112" alt="ayushSignh0112" /></a> </p>
 
